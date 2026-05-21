@@ -2,14 +2,14 @@
 
 ## Daftar Isi
 
-  - [Latar Belakang Proyek](https://www.google.com/search?q=%23latar-belakang-proyek)
-  - [Tujuan Bisnis](https://www.google.com/search?q=%23tujuan-bisnis)
-  - [Dataset](https://www.google.com/search?q=%23dataset)
-  - [Metodologi](https://www.google.com/search?q=%23metodologi)
-  - [Instalasi & Kebutuhan](https://www.google.com/search?q=%23instalasi--kebutuhan)
-  - [Cara Menjalankan Proyek](https://www.google.com/search?q=%23cara-menjalankan-proyek)
-  - [Hasil](https://www.google.com/search?q=%23hasil)
-  - [Author](https://www.google.com/search?q=%23author)
+  - Latar Belakang Proyek
+  - Tujuan Bisnis
+  - Dataset
+  - Metodologi
+  - Instalasi & Kebutuhan
+  - Cara Menjalankan Proyek
+  - Hasil
+  - Author
 
 ## Latar Belakang Proyek
 
